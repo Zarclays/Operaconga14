@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Amire Joseph
-- 👀 I’m interested in ...App development,  Block chain development
+- 👋 Hi, I’m @Operaconga14
+- 👀 I’m interested in ...App development
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... Block chain development, app development and web design
+- 💞️ I’m looking to collaborate on ...app development and web design
 - 📫 How to reach me ... +2347052664391
 
 <!---
